@@ -31,8 +31,8 @@ A modern, responsive admin dashboard built with React and TypeScript. Features a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/metric-dashboard.git
-cd metric-dashboard
+https://github.com/Jackden222/Metric-Modern-Admin-Dashboard.git
+cd Metric-Modern-Admin-Dashboard
 ```
 
 2. Install dependencies:
